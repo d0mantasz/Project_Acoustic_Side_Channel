@@ -19,7 +19,7 @@ Required for demo:
   - `svm_model_live.joblib`
   - `scaler_live.joblib`
   - `meta_live.joblib` (optional but recommended)
-- `wordlist_common_clean.txt` (or whatever file is set in `WORDLIST_PATH` inside `kbd_live_pipeline.py`)
+- `wordlist_common_clean.txt`
 - `AcousticSideChannelAttacks.html` (showcase site)
 
 ---
