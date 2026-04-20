@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Optional big raw recordings (exclude if you don't need them)
+_raw_sessions/
+**/_raw_sessions/
+
+# Streamlit secrets (never upload)
+.streamlit/secrets.toml
